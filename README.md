@@ -3,7 +3,6 @@
 
  I'm a Mathematics student.  
  Currently learning Python.    
- Looking for remote freelance jobs as a developer or scriptwriter.
 
 ##  Skills I'm building:
 - Python  
@@ -23,7 +22,6 @@ Versão em português:
 
 Estudante de Matemática.  
 Estudando: Python.  
-Busco oportunidades remotas como programador ou roteirista PJ.
 
 ## Tecnologias que estou estudando:
 - Python  
